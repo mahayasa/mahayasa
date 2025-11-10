@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Mahayasa Adiputra
 
-<!--
-**mahayasa/mahayasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **About Me**
+- 🔬 Researcher in Machine Learning and Bioinformatics at Chulalongkorn University
+- 💡 Passionate about Data Centric AI, AI in Biology
+- 🚀 Building an AI Genomics platform (soon)
+- 💬 Ask me about GANs, synthetic data, imbalanced learning
 
-Here are some ideas to get you started:
+📫 **Reach Me**
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahayasa-adiputra-b3796423a/)
+- 🧠 [Google Scholar](https://scholar.google.com/citations?user=uFS0JQQAAAAJ&hl=en)
+- 🌐 [Personal Website](mahayasa.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Projects
+| Project | Description | Tech |
+|----------|--------------|------|
+| [CTGAN-ENN](https://github.com/yourusername/CTGAN-ENN) | Hybrid sampling method for churn prediction | Scikit-learn, Optuna |
+| [Credit Score Classifier](https://github.com/yourusername/credit-score-classification) | Multi-class GAN oversampling method | XGBoost, GANs |
+
+---
+
+### 🧰 Tech Stack
+💻 Python | R | SQL  
+🧠 Scikit-learn | TensorFlow  
+📊 Pandas | NumPy | Matplotlib | SHAP  
+⚙️ Docker | Git | Linux  
+
+---
