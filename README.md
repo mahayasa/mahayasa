@@ -13,11 +13,12 @@
 
 ---
 
-### 🧠 Projects
-| Project | Description | Tech |
+### 🧠 Projects & Publications
+| Project | Description | Affiliation |
 |----------|--------------|------|
-| [CTGAN-ENN](https://github.com/yourusername/CTGAN-ENN) | Hybrid sampling method for churn prediction | Scikit-learn, Optuna |
-| [Credit Score Classifier](https://github.com/yourusername/credit-score-classification) | Multi-class GAN oversampling method | XGBoost, GANs |
+|Biomarker Detection (on going) |Biomarker classification on IPF | Chulalongkorn University|
+| [CTGAN-ENN](https://link.springer.com/article/10.1186/s40537-024-00982-x) | Hybrid sampling method for churn prediction | Khon Kaen University |
+| [Credit Score Classifier](https://www.mdpi.com/2079-9292/14/4/697) | Multi-class GAN oversampling method | Feng Chia University |
 
 ---
 
