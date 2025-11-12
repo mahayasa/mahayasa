@@ -2,8 +2,8 @@
 
 🎯 **About Me**
 - 🔬 Postdoctoral Researcher at Departement of Mathematics and Computer Science, Chulalongkorn University
-- 💡 Research area: Bioinformatics, AI in Biology and Data Centric AI
-- 🚀 Building an AI Genomics platform (soon)
+- 💡 Research area: bioinformatics, AI in biology and synthetic data generation
+- 🚀 Building an AI genomics platform (soon)
 - 💬 Ask me about GANs, synthetic data, imbalanced learning
 
 📫 **Reach Me**
