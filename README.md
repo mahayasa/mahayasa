@@ -16,9 +16,9 @@
 ### 🧠 Projects & Publications
 | Project | Description | Affiliation |
 |----------|--------------|------|
-|cancer classification (on going) |Bio-synthetic data generation methods | Chulalongkorn University|
-| [CTGAN-ENN](https://link.springer.com/article/10.1186/s40537-024-00982-x) | Hybrid sampling method for churn prediction | Khon Kaen University |
-| [Credit Score Classifier](https://www.mdpi.com/2079-9292/14/4/697) | Multi-class GAN oversampling method | Feng Chia University |
+|cancer classification (on going) |Bio-synthetic data generation methods | Chulalongkorn University, Thailand|
+| [CTGAN-ENN](https://link.springer.com/article/10.1186/s40537-024-00982-x) | Hybrid sampling method for churn prediction | Khon Kaen University, Thailand |
+| [Credit Score Classifier](https://www.mdpi.com/2079-9292/14/4/697) | Multi-class GAN oversampling method | Feng Chia University, Taiwan |
 
 ---
 
