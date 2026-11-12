@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hello.gif" alt="Hello" width="100">
+  <img src="hello.gif" alt="Hello" width="250">
 </p>
 
 ## Hi there 👋, I'm Mahayasa Adiputra
