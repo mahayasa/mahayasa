@@ -13,5 +13,5 @@
 📫 **Reach Me**
 - 💼 [LinkedIn](https://www.linkedin.com/in/mahayasa-adiputra-b3796423a/)
 - 🧠 [Google Scholar](https://scholar.google.com/citations?user=uFS0JQQAAAAJ&hl=en)
-- 🌐 [Personal Website](mahayasa.github.io)
+- 🌐 [Personal Website](https://mahayasa.github.io)
 
