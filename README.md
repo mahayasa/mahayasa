@@ -1,4 +1,8 @@
-# Hi there 👋, I'm Mahayasa Adiputra
+<p align="center">
+  <img src="hello.gif" alt="Hello" width="300">
+</p>
+
+## Hi there 👋, I'm Mahayasa Adiputra
 
 🎯 **About Me**
 - 🔬 Postdoctoral Researcher at Departement of Mathematics and Computer Science, Chulalongkorn University
